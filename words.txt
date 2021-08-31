@@ -1,0 +1,22 @@
+What is a build?
+    A project that results in preparing, installing, compiling, and/or assembling the source code for a software project.
+
+What is a release?
+    It is a build that works and it passes all the tests
+
+What is a deploy?
+    It is the final version that is pushed up to the server
+
+Name 10 code dependencies?
+    OS, code language, different packages(node, json, jest), github commit order, class dependencies, interface dependencies, method dependencies, Hardware, software
+
+Devops philosophy
+    Running code in multiple environments should work seamlessly
+
+Principles of Devops
+    Productions, staging, local
+
+CI - continuous integration, automatically make sure code that is being worked on will work and passes all tests 
+
+CD - continuous delivery, deploy new builds frequently
+
